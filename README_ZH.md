@@ -1,5 +1,7 @@
 # Metadata Provider Plugin for Jellyfin/Emby
 
+本项目不再维护，如有需求请使用全新的 [JavTube](https://github.com/javtube) 项目。
+
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xjasonlyu/jellyfin-plugin-avdc/Build%20Plugin)
 ![GitHub](https://img.shields.io/github/license/xjasonlyu/jellyfin-plugin-avdc)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/xjasonlyu/jellyfin-plugin-avdc)
